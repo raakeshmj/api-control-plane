@@ -73,6 +73,3 @@ If you are showcasing this project, highlight these technical achievements:
 2.  **Resilience Engineering**: Implemented **Circuit Breakers** with a "Fail-Open" strategy and **Adaptive Rate Limiting**, ensuring system stability under high concurrent load (simulated 10k+ RPS).
 3.  **Security Architecture**: Designed a **Global Middleware Chain** enforcing **Zero Trust** principles, including Replay Protection (time-window checks) and immutable Audit Logs for all control-plane operations.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
